@@ -1,7 +1,7 @@
 # ¡Hola! Soy Mauricio!! 👋
 
 <p align="left">
-  <strong>Estudiante de Ciencias de la Computación (UBA - Exactas) | Aspirante a Desarrollador & QA Tester</strong>
+  <strong>Estudiante de Ciencias de la Computación (UBA - Exactas) | Construyendo mi base en Desarrollo & QA Automation</strong>
 </p>
 
 ---
@@ -10,47 +10,49 @@
 
 ¡Bienvenidx a mi perfil! Tengo **27 años** y vivo en **Buenos Aires, Argentina**. Desde chico me apasiona la Tecnologia, hoy decidi convertir esa pasion en mi carrera Profesional.
 
-* 🔭 **Actualmente:** Cursando el primer año de la Licenciatura en Ciencias de la Computación en la **FCEN - UBA**.
+* 🔭 **Actualmente:** En camino a la Licenciatura en Ciencias de la Computación en la **FCEN - UBA**.
 * 🔄 **Mi Transición:** Vengo del mundo de la **Atención al Cliente y Postventa**, donde trabajé en una consultora que gestionaba esta area para empresas como **Nestlé, Newsan, entre otras**. Esa experiencia me dio una base sólida en resolución de problemas y una mirada crítica sobre la calidad del producto desde el punto de vista del usuario.
-* 🔧 **Hardware & Electrónica:** No solo me quedo en el software; estoy haciendo cursos de reparación de hardware y aprendiendo electrónica por mi cuenta. ¡Acabo de comprar un **Kit Arduino** para empezar a prototipar pronto!
+* 🔧 **Hardware & Electrónica:** No solo me quedo en el software; Estoy explorando la electrónica y reparación de hardware. Actualmente experimentando con un Kit Arduino y bases de diagnóstico de placas.
 
 ---
 
 ### 🛠️ Mi "Caja de Herramientas" actual
 
-* **Lenguajes:** Python (con manejo de **Pandas** y **Matplotlib** para análisis de datos), HTML y CSS.
-* **QA & Testing:** Capacitación en **Testing Manual de aplicaciones** Certificada por el Ministerio de Educacion. (2024).
+* **Lenguajes:** Python (Pandas y Matplotlib), HTML y CSS.
+* **QA & Testing:** Testing Manual de aplicaciones (Certificado por el Ministerio de Educación, 2024).
 * **Bases & Versiones:** SQL y Git.
 * **Hardware:** Reparación de PC y fundamentos de electrónica.
 
 ---
 
-### 📋 Mi Backlog de Aprendizaje (Roadmap)
+### 🏗️ Sprint de Enero: Especialización Técnica
+Este mes mi enfoque está en consolidar las bases de automatización y productividad. Podés seguir el detalle de mis apuntes y código en mi bitácora: WIP
 
-Tengo claro hacia dónde voy. Una vez que domine mis herramientas actuales, estos son mis próximos pasos:
-
-- [ ] **Desarrollo Web:** JavaScript (Frontend) y FastAPI/Django (Backend con Python).
-- [ ] **QA Automation:** Playwright, Cypress, Selenium y Pytest.
-- [ ] **Tools:** Postman para APIs, Linux y Docker.
-- [ ] **Académico:** C++ y .NET / C#.
-- [ ] **Espacio Abierto:** Siempre surgen nuevos intereses asi que no me gustaria detenerme por aca. Tambien se aceptan sugerencias, sea por carrera o por diversion!
+**Objetivos del mes:**
+1. **Productividad con IA:** Dominio de VS Code + GitHub Copilot e Ingeniería de Prompts.
+2. **Python Avanzado:** Decoradores, POO y manejo de excepciones para QA.
+3. **Bases de Datos:** Refuerzo de consultas SQL para validación de datos.
 
 ---
 
-### 📈 Estado de mis Repositorios
-> ⚠️ **Nota de honestidad:** Si actualmente ves mis contribuciones algo vacías, es porque estoy en pleno proceso de aprendizaje y estoy trabajando en terminar mis primeros proyectos. ¡Muy pronto estarán disponibles aquí!
+### 📋 Mi Backlog de Aprendizaje (Roadmap)
+
+- [ ] **QA Automation:** Playwright, Cypress, Selenium y Pytest.
+- [ ] **Desarrollo Web:** JavaScript (Frontend) y FastAPI/Django (Backend).
+- [ ] **Tools:** Postman para APIs, Linux y Docker.
+- [ ] **Académico:** C++, Álgebra y Análisis Matemático.
 
 ---
 
 ### ⚡ Datos curiosos
 * 🏋️‍♂️ Me apasiona el **Fitness** y llevar una vida activa.
-* 🎸 La **música** y los **videojuegos** son mis pasatiempos favoritos. (Cuando era chico queria ser GameDev, un poco todavia tambien jajaj)
+* 🎸 La música y los videojuegos son mis pasatiempos favoritos (¡el sueño de GameDev sigue latente!).
 * 🧉 **Sin el mate y el café no hay código que compile.**
 
 ---
 
 ### 📫 Contacto
-¿Te interesa mi perfil o querés charlar sobre tecnología? 
+¿Te interesa mi perfil o querés charlar sobre tecnología? ¡Conectemos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-taboada/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauriciotaboada50@gmail.com)
