@@ -12,7 +12,7 @@
 
 * 🔭 **Actualmente:** En camino a la Licenciatura en Ciencias de la Computación en la **FCEN - UBA**.
 * 🔄 **Mi Transición:** Vengo del mundo de la **Atención al Cliente y Postventa**, donde trabajé en una consultora que gestionaba esta area para empresas como **Nestlé, Newsan, entre otras**. Esa experiencia me dio una base sólida en resolución de problemas y una mirada crítica sobre la calidad del producto desde el punto de vista del usuario.
-* 🔧 **Hardware & Electrónica:** No solo me quedo en el software; Estoy explorando la electrónica y reparación de hardware. Actualmente experimentando con un Kit Arduino y bases de diagnóstico de placas.
+* 🔧 **Hardware & Electrónica:** No solo me quedo en el software; Estoy explorando la electrónica y reparación de hardware. Actualmente experimentando con un Kit Arduino y las bases del diagnóstico de pcb.
 
 ---
 
@@ -20,26 +20,39 @@
 
 * **Lenguajes:** Python (Pandas y Matplotlib), HTML y CSS.
 * **QA & Testing:** Testing Manual de aplicaciones (Certificado por el Ministerio de Educación, 2024).
-* **Bases & Versiones:** SQL y Git.
-* **Hardware:** Reparación de PC y fundamentos de electrónica.
+* **Herramientas & Infraestructura:** Git, SQL, AWS Fundamentals
+* **Hardware:** Reparación de Notebooks y PC, fundamentos de electrónica y diagnostico de PCB.
 
 ---
 
 ### 🏗️ Sprint de Enero: Especialización Técnica
-Este mes mi enfoque está en consolidar las bases de automatización y productividad. Podés seguir el detalle de mis apuntes y código en mi bitácora: WIP
+Este mes mi enfoque está en consolidar las bases de Programacion, Automatización, Infraestructura  y productividad. 
 
 **Objetivos del mes:**
-1. **Productividad con IA:** Dominio de VS Code + GitHub Copilot e Ingeniería de Prompts.
-2. **Python Avanzado:** Decoradores, POO y manejo de excepciones para QA.
-3. **Bases de Datos:** Refuerzo de consultas SQL para validación de datos.
+1. **Productividad con IA:** Dominio de VS Code + GitHub Copilot e Ingeniería de Prompts. --> En Proceso
+2. **Python Avanzado:** Decoradores, POO y manejo de excepciones para QA. --> En Proceso
+3. **Bases de Datos:** Refuerzo de consultas SQL para validación de datos. --> Pendiente
+4. **AWS Cloud Fundamentals** Certificacion de AWS --> **Completado**
+5. **AWS Cloud Practitioner** Certificaciion que profundiza en AWS --> En proceso
+---
 
 ---
+
+### 🧭 Technical Log
+
+Estoy centralizando mi aprendizaje en un repositorio estructurado donde vuelco, de forma procesada y curada, mis anotaciones y apuntes de la facultad, certificaciones e investigaciones personales. Intento que todo tenga el mayor rigor técnico posible, siendo directo pero con un tono ameno. La idea es que este recurso sirva para 'mi futuro yo' y para cualquiera que necesite refrescar algún concepto.
+
+Podes acceder a este repositorio a través del siguiente enlace: [**Technical-Log**](https://github.com/MTaboada50/Technical-Log) 🚀
+
+---
+
+
 
 ### 📋 Mi Backlog de Aprendizaje (Roadmap)
 
 - [ ] **QA Automation:** Playwright, Cypress, Selenium y Pytest.
 - [ ] **Desarrollo Web:** JavaScript (Frontend) y FastAPI/Django (Backend).
-- [ ] **Tools:** Postman para APIs, Linux y Docker.
+- [ ] **Tools:** Postman para APIs, Linux y Docker. ~~AWS~~.
 - [ ] **Académico:** C++, Álgebra y Análisis Matemático.
 
 ---
